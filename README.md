@@ -52,6 +52,8 @@ a button in the top-right of the issue where you can add reactions.
 - 👍 I like it!
 - ❤️ Shut up and take my money!
 
+Please, only vote talks tagged with [*Accepted for Voting*](https://github.com/symfony-cat/cfp-2017/issues?q=is%3Aissue+is%3Aopen+label%3A%22Accepted+for+voting%22). Any talk not tagged with it won't be part of the final selection.
+
 We ask you all that, if a talk is not from your interest, just think that *is not of your interest*, and don't thumb it
 down. Take in account that not everyone is used of doing talks or proposing them, so be respectful with everyone.
 
