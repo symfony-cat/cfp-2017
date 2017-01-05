@@ -3,10 +3,10 @@
 This is the mechanism we will have this year to expose the Call for papers of the conference. With this method,
 we want to make sure everyone is involved with the process and everyone has the same exposure and opportunities.
 
-* [I want to talk](#i-want-to-talk)
+* [I want to be a speaker](#i-want-to-be-a-speaker)
 * [I want to vote](#i-want-to-vote)
 
-# I want to talk
+# I want to be a speaker
 
 Dear speaker, welcome to the Symfony Catalunya 2017. We will explain you what does being our speaker mean, and how easy
 is to be part of the adventure. And you don't have to leave Github!
