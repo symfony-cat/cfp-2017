@@ -8,7 +8,7 @@ we want to make sure everyone is involved with the process and everyone has the 
 
 # Fast links
 
-* [Create a new Talk Submission](https://github.com/symfony-cat/cfp-2017/issues/new)
+* [Submit a new Talk](https://github.com/symfony-cat/cfp-2017/issues/new)
 * [View all Talks for voting](https://github.com/symfony-cat/cfp-2017/issues?q=is%3Aissue+is%3Aopen+label%3A%22Accepted+for+voting%22)
 
 
