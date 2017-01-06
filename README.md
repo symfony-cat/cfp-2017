@@ -6,6 +6,12 @@ we want to make sure everyone is involved with the process and everyone has the 
 * [I want to be a speaker](#i-want-to-be-a-speaker)
 * [I want to vote](#i-want-to-vote)
 
+# Fast links
+
+* [Create a new Talk Submission](https://github.com/symfony-cat/cfp-2017/issues/new)
+* [View all Talks for voting](https://github.com/symfony-cat/cfp-2017/issues?q=is%3Aissue+is%3Aopen+label%3A%22Accepted+for+voting%22)
+
+
 # I want to be a speaker
 
 Dear speaker, welcome to Symfony Catalunya 2017. We will explain you what being our speaker means, and how easy
