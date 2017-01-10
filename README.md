@@ -38,8 +38,8 @@ As speaker we offer you this package
 - We pay you your flights
 - Some extra surprises... come and discover them :)
 
-The way we will choose the talks for the conference will be a mix of people's votes and our veredict. We share what will
-our veredict take in account:
+The way we will choose the talks for the conference will be a mix of people's votes and our verdict. We share what will
+our verdict take in account:
 
 - The quality of the talk.
 - The quality of the speaker **as a speaker**. If you publish videos or slides, that will help us a lot, so make sure that, if you have some links, add them in your proposals. Does it mean that a new speaker will not have any chance? Of course not. We will have in mind that everyone is part of the conference, and if the talk is good, the chances grow. If you're new, why don't you publish something about you in video? Make us a demonstration, this will increase your visibility and will help us a lot as well.
