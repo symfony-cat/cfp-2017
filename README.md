@@ -21,7 +21,8 @@ Here we have some points that you need to keep in mind before proposing any talk
 our chosen talks, so please read from A to Z.
 
 - All talks *must* be unique and the first time presented. All talks done before will be tagged as **repeated** and will be automatically discarded.
-- Your talk should be about 40 minutes long. You will have around 10 minutes at the end for Q&A.
+- Your talk should be about 40 minutes long. You will have around 10 minutes at the end for Q&A
+- All talks must be in English
 - Add as many proposals as you want.
 - This year we will focus on Symfony, the Framework, the Components and the way you can mix it with many other technologies. This means that Symfony must be the most important part of the talk, not an extra at the end.
 - To create a new talk proposal, [**create a new Issue in this repository**](https://github.com/symfony-cat/cfp-2017/issues/new). Each Issue intended to be created as a talk will be tagged with the tag *Talk!* and will be revised by the organization team.
