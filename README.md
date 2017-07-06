@@ -1,3 +1,8 @@
+
+# Muy a pesar nuestro hemos decidido suspender la edición de Symfony Cat 2017. Disculpar las molestias.
+# We have decided to suspend the edition of Symfony Cat 2017. Sorry for the inconvenience.
+
+
 # Call for Papers, Symfony Catalunya 2017
 
 This is the mechanism we will have this year to expose the Call for papers of the conference. With this method,
